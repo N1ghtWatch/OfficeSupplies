@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "OfficeSupplies", "OfficeSupplies\OfficeSupplies.dtproj", "{3605C3B5-CE74-4256-80FA-D617E605FA04}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "OfficeSuppliesSSRS", "OfficeSuppliesSSRS\OfficeSuppliesSSRS.rptproj", "{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Debug|Default.ActiveCfg = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Debug|Default.Build.0 = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.DebugLocal|Default.ActiveCfg = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.DebugLocal|Default.Build.0 = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Development|Default.ActiveCfg = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Development|Default.Build.0 = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Release|Default.ActiveCfg = Development
+		{3605C3B5-CE74-4256-80FA-D617E605FA04}.Release|Default.Build.0 = Development
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Debug|Default.ActiveCfg = Debug
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Debug|Default.Build.0 = Debug
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Debug|Default.Deploy.0 = Debug
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.DebugLocal|Default.Build.0 = DebugLocal
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Development|Default.ActiveCfg = DebugLocal
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Development|Default.Build.0 = DebugLocal
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Release|Default.ActiveCfg = Release
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Release|Default.Build.0 = Release
+		{9576B6EA-FA0A-4462-AF51-ED56E1C7BA57}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DC049B-6EE4-4F86-BDC5-DEDDD8128A34}
+	EndGlobalSection
+EndGlobal
